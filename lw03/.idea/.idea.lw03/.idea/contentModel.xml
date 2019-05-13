@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MarioSlim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MarioSlim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_lw03.150346330.00" t="ExcludeRecursive" />
+    <e p="D:\PP\lw03" t="IncludeFlat">
+      <e p="lw03" t="IncludeRecursive">
+        <e p="ArgsThread.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CriticalSectionImpl.cs" t="Include" />
+        <e p="ICriticalSection.cs" t="Include" />
+        <e p="lw03.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="lw03.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PiCalculator.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="lw03.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

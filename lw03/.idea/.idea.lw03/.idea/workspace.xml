@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="663f10f6-2556-4be0-a4ac-8231ea69a660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lw03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lw03/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lw03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lw03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lw03/ArgsThread.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lw03/CriticalSectionImpl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lw03/ICriticalSection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lw03/PiCalculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw01/.vs/lw01/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../lw01/.vs/lw01/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw01/.vs/lw01/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../lw01/.vs/lw01/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw01/lw01/lw01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lw01/lw01/lw01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw01/lw01/lw01.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../lw01/lw01/lw01.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lw01/lw01/lw01.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../lw01/lw01/lw01.vcxproj.user" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lw03/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+              <folding>
+                <marker date="1557772309460" expanded="true" signature="6:39" ph="..." />
+                <marker date="1557772309460" expanded="true" signature="55:1273" ph="{...}" />
+                <marker date="1557772309460" expanded="true" signature="75:1271" ph="{...}" />
+                <marker date="1557772309460" expanded="true" signature="171:1265" ph="{...}" />
+                <marker date="1557772309460" expanded="true" signature="214:335" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lw03/PiCalculator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="61" column="52" lean-forward="true" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+              <folding>
+                <marker date="1557772351173" expanded="true" signature="6:37" ph="..." />
+                <marker date="1557772351173" expanded="true" signature="53:2563" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="85:2561" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="345:1238" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="740:1074" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1140:1203" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1298:1856" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1361:1444" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1566:1846" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1919:2555" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="1982:2065" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="2183:2545" ph="{...}" />
+                <marker date="1557772351173" expanded="true" signature="2392:2531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lw03/ArgsThread.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <marker date="1557769770085" expanded="true" signature="14:316" ph="{...}" />
+                <marker date="1557769770085" expanded="true" signature="44:314" ph="{...}" />
+                <marker date="1557769770085" expanded="true" signature="196:308" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lw03/ICriticalSection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1557766300128" expanded="true" signature="14:548" ph="{...}" />
+                <marker date="1557766300128" expanded="true" signature="54:546" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lw03/CriticalSectionImpl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding>
+                <marker date="1557770402338" expanded="false" signature="6:63" ph="..." />
+                <marker date="1557770402338" expanded="true" signature="79:1550" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="137:1548" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="256:340" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="369:712" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="403:702" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="468:654" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="560:636" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="741:920" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="817:910" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="965:1016" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="1059:1533" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="1189:1493" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="1254:1445" ph="{...}" />
+                <marker date="1557770402338" expanded="true" signature="1346:1427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lw03/CriticalSectionImpl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lw03/ICriticalSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/e6/b2e40499/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lw03/ArgsThread.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lw03/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lw03/PiCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17198C3D-69E9-4A9C-B09B-31814E8ADF70/92/ac4cc879/Stopwatch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/c2/61c24908/Interlocked.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lw03/ICriticalSection.cs" />
+        <option value="$PROJECT_DIR$/lw03/ArgsThread.cs" />
+        <option value="$PROJECT_DIR$/lw03/CriticalSectionImpl.cs" />
+        <option value="$PROJECT_DIR$/lw03/Program.cs" />
+        <option value="$PROJECT_DIR$/lw03/PiCalculator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-125" />
+    <option name="y" value="86" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="lw03" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="lw03" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="lw03" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/lw03/bin/Debug/netcoreapp2.2/lw03.dll" />
+      <option name="PROGRAM_PARAMETERS" value="70000000 30 500" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lw03" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/lw03/lw03.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="663f10f6-2556-4be0-a4ac-8231ea69a660" name="Default Changelist" comment="" />
+      <created>1557765717201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557765717201</updated>
+      <workItem from="1557765720693" duration="7678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7678000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/e6/b2e40499/Monitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/c2/61c24908/Interlocked.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-965">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1557766649444" expanded="true" signature="0:334" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1557766649444" expanded="false" signature="342:453" ph="..." />
+            <marker date="1557766649444" expanded="true" signature="481:4323" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="517:4321" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="571:630" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="683:743" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="794:854" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="907:968" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="1848:1966" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="3012:3157" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="3653:3733" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="3793:3873" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="3921:3997" ph="{...}" />
+            <marker date="1557766649444" expanded="true" signature="4258:4317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17198C3D-69E9-4A9C-B09B-31814E8ADF70/92/ac4cc879/Stopwatch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lw03/ICriticalSection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1557766300128" expanded="true" signature="14:548" ph="{...}" />
+            <marker date="1557766300128" expanded="true" signature="54:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lw03/ArgsThread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <marker date="1557769770085" expanded="true" signature="14:316" ph="{...}" />
+            <marker date="1557769770085" expanded="true" signature="44:314" ph="{...}" />
+            <marker date="1557769770085" expanded="true" signature="196:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lw03/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <marker date="1557772309460" expanded="true" signature="6:39" ph="..." />
+            <marker date="1557772309460" expanded="true" signature="55:1273" ph="{...}" />
+            <marker date="1557772309460" expanded="true" signature="75:1271" ph="{...}" />
+            <marker date="1557772309460" expanded="true" signature="171:1265" ph="{...}" />
+            <marker date="1557772309460" expanded="true" signature="214:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lw03/PiCalculator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="61" column="52" lean-forward="true" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+          <folding>
+            <marker date="1557772351173" expanded="true" signature="6:37" ph="..." />
+            <marker date="1557772351173" expanded="true" signature="53:2563" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="85:2561" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="345:1238" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="740:1074" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1140:1203" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1298:1856" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1361:1444" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1566:1846" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1919:2555" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="1982:2065" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="2183:2545" ph="{...}" />
+            <marker date="1557772351173" expanded="true" signature="2392:2531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lw03/CriticalSectionImpl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+          <folding>
+            <marker date="1557770402338" expanded="false" signature="6:63" ph="..." />
+            <marker date="1557770402338" expanded="true" signature="79:1550" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="137:1548" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="256:340" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="369:712" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="403:702" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="468:654" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="560:636" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="741:920" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="817:910" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="965:1016" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="1059:1533" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="1189:1493" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="1254:1445" ph="{...}" />
+            <marker date="1557770402338" expanded="true" signature="1346:1427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
